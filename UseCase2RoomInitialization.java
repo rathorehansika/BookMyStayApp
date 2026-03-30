@@ -95,7 +95,7 @@ public class UseCase2RoomInitialization {
         System.out.println();
 
         /* Display Double Room Details */
-        System.out.println("----- Double Room -----");
+        System.out.println("----- --Double Room -----");
         doubleRoom.displayRoomDetails();
         System.out.println("Available Rooms : " + doubleRoomAvailable);
         System.out.println();
